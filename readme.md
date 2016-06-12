@@ -1,5 +1,11 @@
 # jQuery $ajax Requests
 
-* Demonstrates the ability to use $ajax() calls for the SWAPI & Pokemon API.
+### STATUS : *C.R.U.D.* UNSAT ON 12 JUN 2016
 
-### Built: *11 Jun 2016.*
+* Use $.ajax() to track Stock Picks.
+
+### NOTES : 
+
+* None
+  - Issue 1:
+  - P.Fix 1:
